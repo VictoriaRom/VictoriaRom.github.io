@@ -1,0 +1,105 @@
+    body {
+        font-family: "Open Sans", sans-serif;
+        color: #fff6f6;
+        background-color: #242323;
+        text-align: center;
+}
+    
+    
+    #me {
+        width: 40%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 15px;
+        border-radius: 50%;
+    }
+    
+    h3#at {
+        font-family: "Raleway", sans-serif;
+        font-size: 22px;
+        margin: 5px;
+        color: white;
+        text-decoration: none;  /*el ig me lo subraya y lo pone color violeta. nose como hacer para que eso no pase*/
+    }
+    
+    
+    .social {
+        width: 8%;
+        height: auto;
+        padding: 10px 3px;
+        color: white;
+
+    }
+    
+    ul {
+        list-style-type: none;
+        padding-inline-start: 0;
+        margin: unset;
+    }
+    
+    nav {
+        margin: 0px 0px 25px;
+    }
+    nav ul li {
+        display: inline;
+    }
+    
+    
+    section p {
+        line-height: 25px;
+    }
+
+    .description p {
+        font-size: 17px;
+        text-align: center;
+    }
+    
+    
+    #btn {
+        margin: 25px;
+    }
+    
+    .btn {
+        width: 150px;
+        font-weight: 700;
+        line-height: 36px;
+        background-color: #e3a275 ;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px solid #484c4e;
+        border-radius: 5px;
+        filter:drop-shadow(-3px 3px #b8bbbd);
+    }
+    
+    .btn a{
+        text-decoration:none;
+        color: #222425;
+    }
+    
+    
+    .btn:hover{
+        width: 150px;
+        line-height: 36px;
+        background-color: #df8740;
+        margin-bottom: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px solid #110f0f;
+        border-radius: 5px;
+        filter:drop-shadow(-3px 3px #e2d3a1);
+    }
+    
+    
+    footer {
+        margin-top: 50px;
+        font-size: small;
+    }
+    
+    .hide a{
+        text-decoration:none;
+        color: #e4cd65;
+        margin: unset;
+    }
