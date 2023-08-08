@@ -6,7 +6,7 @@ Linktree es una landing page mobile creada como parte del PRIMER RETO en el curs
 - `css/`: Carpeta que contiene el archivo de estilos CSS (`style.css`) utilizado para dar estilo a la página.
 - `img/`: Carpeta que contiene las imágenes y los iconos (`icons`) utilizadas en la página.
 - `.gitignore`: Archivo de configuración de Git que especifica los archivos que deben ser ignorados en el repositorio.
-- `.projects.html`: Este archivo es otra page que contiene los proyectos.
+- `projects.html`: Este archivo es otra page que contiene los proyectos.
 
 ## Proyectos
 - Reto 01: Linktree ✅
