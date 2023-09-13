@@ -11,7 +11,8 @@ Linktree es una landing page mobile creada como parte del PRIMER RETO en el curs
 ## Proyectos
 - Reto 01: Linktree ✅
 - Reto 02: Clon de Google ✅
-- Reto 03: To do list ...
+- Reto 03: To do list ✅
+- Reto 04: ...
 
 ## Contacto
 Si tenes alguna pregunta o sugerencia, contactame en [victoriaaromero13@gmail.com](mailto:victoriaaromero13@gmail.com) o visitá mi sitio web en [https://VictoriaRom.github.io](https://VictoriaRom.github.io).
