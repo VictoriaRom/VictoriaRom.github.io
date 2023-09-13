@@ -151,6 +151,23 @@ section p {
     line-height: 50px;
 
 }
+#ToDoList{
+    font-family: "Raleway", sans-serif;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-color: #D9D9D9;
+    color: #121212;
+    box-shadow: -4px 4px 0px 0px rgb(231, 159, 50);
+    transition: all 0.2s;
+    border-radius: 6px;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 50px;
+
+}
 
 #codearock:hover{
     background-position: 50%;
@@ -231,7 +248,7 @@ section p {
 }
 #TaskList:hover{
     background-position: 50%;
-    background-color: #ddbe33;
+    background-color: #e6c044;
     background-image: url(../img/icons/to-do-list.png);
     background-size: contain;
     vertical-align: middle;
@@ -245,6 +262,26 @@ section p {
 }
 
 #TaskList:active{
+    background-size: 80px;
+}
+
+
+#ToDoList:hover{
+    background-position: 50%;
+    background-color: #2a79d3;
+    background-image: url(../img/icons/todolist.png);
+    background-size: contain;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    border: none;
+    box-shadow: 1px 1px 49px -27px rgba(0,0,0,0.75) inset;
+}
+
+#ToDoList:hover p{
+    display: none;
+}
+
+#ToDoList:active{
     background-size: 80px;
 }
 
